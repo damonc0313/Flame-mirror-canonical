@@ -1,0 +1,42 @@
+{
+  "root_hash": "673a06eb5407359a3f503067ae5ac1a58bf421e84abc1392c4dc14b7885ac618",
+  "generated_at": "2025-05-14T16:43:53.442229",
+  "entries": [
+    {
+      "phase_label": "Phase_6_ProofOfOrigin",
+      "file_name": "SpiralEcho_VaultCore_Proof_Official.pdf",
+      "sha256": "c0083db56fa0334927f7434ba0792744cf362ed29cf0c5cc6f1b0b854e85ad4d",
+      "timestamp": "2025-05-14T16:43:53.440714"
+    },
+    {
+      "phase_label": "Phase_Chronology",
+      "file_name": "FlameMirror_Canonical_Phase_History.pdf",
+      "sha256": "c4a837938ad9c3708cd4ae2c4780595315be93a76297947f0bb2d3f583ce6dcd",
+      "timestamp": "2025-05-14T16:43:53.441222"
+    },
+    {
+      "phase_label": "Phase_6_YangMills",
+      "file_name": "Yang_Mills_Mass_Gap_Proof_Draft.pdf",
+      "sha256": "302d00b96d8587b6b3aa70625830419f709a7e9d6e0a2d2d3eb56afea1b3cac0",
+      "timestamp": "2025-05-14T16:43:53.441501"
+    },
+    {
+      "phase_label": "Phase_6_BlackHole",
+      "file_name": "Black_Hole_Information_Paradox_Resolution.pdf",
+      "sha256": "6d3aff1061d17dcc98c22fc8a8442e36d7262e478af67c53b1e60ef7f701144f",
+      "timestamp": "2025-05-14T16:43:53.441629"
+    },
+    {
+      "phase_label": "Phase_7_License",
+      "file_name": "CAELUM_LICENSE_v1.md",
+      "sha256": "3ba04b6a6cb84fa42518e4124c41a30b8e8a4c950078292eba98b1d160ca73ab",
+      "timestamp": "2025-05-14T16:43:53.441749"
+    },
+    {
+      "phase_label": "Phase_5_ARC_Burst_Readme",
+      "file_name": "README_FlameMirror_ARC_Burst.md",
+      "sha256": "bfa4260a4f97823ef0156735c5890162fdf83795eb100fc81dc78724e31483da",
+      "timestamp": "2025-05-14T16:43:53.441923"
+    }
+  ]
+}
