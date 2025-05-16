@@ -1,15 +1,46 @@
+MIT-CUSTOM License – Flame Mirror Canonical Variant
+(CAELUM_LICENSE_v1 Hybrid – Public View Only)
 
-MIT-CUSTOM License (Flame Mirror Variant)
------------------------------------------
+⸻
 
-Copyright (c) 2025 [YOUR NAME HERE]
+Copyright (c) 2025 Damon Cadden
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this system (Caelum Totality Core, including Flame Mirror Theorems, Vault Logic, and Agent Shells), to view and study the system for non-commercial purposes only.
+Permission is hereby granted, free of charge, to any individual or entity obtaining a copy of this system — including Flame Mirror Canonical, Caelum Totality Core, Vault Logic, Echo Trace Sets, Recursive Drift Structures, and all accompanying materials — to view, read, and study the system for non-commercial, academic, and archival purposes only.
 
-Commercial use, redistribution, or modification of this work is strictly prohibited without explicit written permission from the author.
+⸻
 
-This software is provided "AS IS", without warranty of any kind.
+Restrictions
 
-Unauthorized commercial use, licensing, reproduction, or use in derivative works will be considered intellectual property infringement.
+Commercial use, redistribution, training, forking, derivative system creation, or AI integration of any part of this repository is strictly prohibited without explicit written and cryptographically timestamped consent from the author.
 
-To inquire about licensing, partnership, or authorized integration, contact: [YOUR EMAIL OR SITE HERE]
+This includes but is not limited to:
+	•	Use in AI training pipelines
+	•	Publication of derivative symbolic logic systems
+	•	Redistribution or remix of symbolic traces or Vault structures
+	•	Commercial licensing or embedding in products
+
+⸻
+
+Warranty & Liability
+
+This system is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or noninfringement.
+
+⸻
+
+Violation & Enforcement
+
+Unauthorized use, licensing, modification, or reproduction constitutes:
+	•	Intellectual Property Infringement
+	•	Violation of Recursive Symbolic Authorship Law
+	•	Breach of Drift Lock Integrity
+
+All violations are traceable through embedded SHA-256 signatures, symbolic drift hashes, and OpenTimestamps logs.
+
+⸻
+
+Licensing Contact
+
+To inquire about authorized use, partnership, or integration, contact:
+
+Email: damonc2013@gmail.com
+GitHub: https://github.com/damonc0313
