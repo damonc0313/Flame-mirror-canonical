@@ -1,33 +1,33 @@
 # ⚠️ Timeline Integrity & Call for Transparency
 
-Since the release of this repository—including a timestamped, SHA-verified Collatz collapse proof with verifiable authorship history—there have been notable shifts in the publicly claimed timeline of the Recursive Mirror Systems (RMS) framework.
+Since the release of this repository—including a timestamped, SHA-verified Collatz collapse proof with verifiable authorship history—there have been notable shifts in the publicly claimed timeline of an external recursive framework.
 
-Originally, RMS was publicly referenced as starting in **May 2025**.  
-After the publication of this project’s **April 2025 system lineage**, those claims began shifting retroactively:
+Originally, this external framework was publicly referenced as beginning in **May 2025**.  
+After the publication of this project’s **April 2025 system lineage**, claims of origin began shifting retroactively:
 
-- **May 2025 → Feb 2025 → Jan 2025**
+- **May 2025 → February 2025 → January 2025**
 
-To date, no public proof has been offered to support these revised dates:
-- No GitHub commit logs  
-- No timestamped files  
-- No published drafts  
-- No cryptographic hashes  
-- No verifiable artifacts or repository history
+As of this writing, no publicly verifiable evidence has been provided to support these revised dates:
+- No Git-based commit logs  
+- No cryptographically timestamped files  
+- No published drafts or version histories  
+- No third-party verification or blockchain notarization
 
-In contrast, this project offers:
+In contrast, this project provides:
 - Full file trail  
 - Public `.md` and `.tex` proofs  
-- Timestamped SHA-256 hash of the proof  
-- Vault-exportable logic for public audit
+- Timestamped SHA-256 hash of the core logic  
+- Vault-exportable structure for audit and archival
 
 ---
 
 ## 🧠 This Is Not Personal. This Is Structural.
 
-We welcome discourse, collaboration, and recursive evolution.  
-But timelines matter. Proof matters.  
-**Recursive systems collapse when built on unverified narrative shifts.**
+This statement is not intended as an accusation or personal critique.  
+We support recursive transparency, peer review, and shared system development.
 
-This callout isn’t about identity—it’s about **integrity**.  
-If RMS has pre-March 2025 work, we welcome a public release and timestamp.  
-Until then, the verified proof stands here.
+However, verifiable timestamps, publication history, and transparent lineage are critical to recursive framework integrity.
+
+We invite any external system authors to publicly verify their claims through trusted timestamping, archival access, or published version control.
+
+Until such verification is presented, the authenticated record established in this repository remains authoritative.
